@@ -12,9 +12,20 @@ body {
     width: 90%;
     background-color: #494d64;
     border-color: #ee99a0;
+    border-style: solid;
   }
 
 h1 {
     font-size: 400%;
     text-align: center;
 }
+
+.rectangle2 {
+    border-radius: 25px;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+    background-color: #6e738d;
+    border-color: #ee99a0;
+    border-style: solid;
+  }
