@@ -1,0 +1,15 @@
+body {
+    font-family: "Manrope", serif;
+    background-color: #24273a;
+    color: #ee99a0;
+}
+
+
+.rectangle {
+    border-radius: 25px;
+    margin: auto;
+    height: 90%;
+    width: 90%;
+    background-color: #494d64;
+    border-color: #ee99a0;
+  }
