@@ -2,8 +2,8 @@ body {
     font-family: "Manrope", serif;
     background-color: #24273a;
     color: #ee99a0;
+    font-size: 200%;
 }
-
 
 .rectangle {
     border-radius: 25px;
@@ -13,3 +13,8 @@ body {
     background-color: #494d64;
     border-color: #ee99a0;
   }
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+}
